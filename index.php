@@ -4,7 +4,7 @@
 	<title>php practice</title>
 </head>
 <body>
-
+	
 	<?php
 
 		$x = array(
